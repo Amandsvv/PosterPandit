@@ -1,0 +1,16 @@
+[
+  { "name": "Spiritual Posters", "slug": "spiritual", "image": "Images/poster_spiritual.png" },
+  { "name": "Motivational Posters", "slug": "motivational", "image": "Images/poster_motivational.png" },
+  { "name": "Inspirational Quotes", "slug": "quotes", "image": "Images/poster_quotes.png" },
+  { "name": "Festival Posters", "slug": "festival", "image": "Images/poster_festival.png" },
+  { "name": "Bhagwan Posters", "slug": "bhagwan", "image": "Images/poster_bhagwan.png" },
+  { "name": "Wall Art Posters", "slug": "wall-art", "image": "Images/poster_wallart.png" },
+  { "name": "Educational Posters", "slug": "educational", "image": "Images/poster_educational.png" },
+  { "name": "Ayurveda Posters", "slug": "ayurveda", "image": "Images/poster_ayurveda.png" },
+  { "name": "Traditional Posters", "slug": "traditional", "image": "Images/poster_traditional.png" },
+  { "name": "Kids Posters", "slug": "kids", "image": "Images/poster_kids.png" },
+  { "name": "Nature Posters", "slug": "nature", "image": "Images/poster_nature.png" },
+  { "name": "Shlokas & Mantras", "slug": "mantras", "image": "Images/poster_matra.jpg" },
+  { "name": "Devotional Symbols", "slug": "symbols", "image": "Images/poster_symbols.png" },
+  { "name": "Vastu Posters", "slug": "vastu", "image": "Images/poster_vastu.jpg" }
+]

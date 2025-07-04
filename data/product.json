@@ -1,0 +1,2690 @@
+{
+  "spiritual": [
+    {
+      "id": "spiritual1",
+      "name": "Spiritual Posters 1",
+      "price": 151,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual1.png",
+        "../Images/spiritual1_2.jpg",
+        "../Images/spiritual1_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual2",
+      "name": "Spiritual Posters 2",
+      "price": 157,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual2.png",
+        "../Images/spiritual2_2.jpg",
+        "../Images/spiritual2_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual3",
+      "name": "Spiritual Posters 3",
+      "price": 344,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual3.png",
+        "../Images/spiritual3_2.jpg",
+        "../Images/spiritual3_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual4",
+      "name": "Spiritual Posters 4",
+      "price": 164,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual4.png",
+        "../Images/spiritual4_2.jpg",
+        "../Images/spiritual4_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual5",
+      "name": "Spiritual Posters 5",
+      "price": 223,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual5.png",
+        "../Images/spiritual5_2.jpg",
+        "../Images/spiritual5_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual6",
+      "name": "Spiritual Posters 6",
+      "price": 382,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual6.png",
+        "../Images/spiritual6_2.jpg",
+        "../Images/spiritual6_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual7",
+      "name": "Spiritual Posters 7",
+      "price": 356,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual7.png",
+        "../Images/spiritual7_2.jpg",
+        "../Images/spiritual7_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual8",
+      "name": "Spiritual Posters 8",
+      "price": 457,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual8.png",
+        "../Images/spiritual8_2.jpg",
+        "../Images/spiritual8_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual9",
+      "name": "Spiritual Posters 9",
+      "price": 146,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual9.png",
+        "../Images/spiritual9_2.jpg",
+        "../Images/spiritual9_3.jpg"
+      ]
+    },
+    {
+      "id": "spiritual10",
+      "name": "Spiritual Posters 10",
+      "price": 427,
+      "category": "spiritual",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/spiritual10.png",
+        "../Images/spiritual10_2.jpg",
+        "../Images/spiritual10_3.jpg"
+      ]
+    }
+  ],
+  "motivational": [
+    {
+      "id": "motivational1",
+      "name": "Motivational Posters 1",
+      "price": 189,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational1.png",
+        "../Images/motivational1_2.jpg",
+        "../Images/motivational1_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational2",
+      "name": "Motivational Posters 2",
+      "price": 111,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational2.png",
+        "../Images/motivational2_2.jpg",
+        "../Images/motivational2_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational3",
+      "name": "Motivational Posters 3",
+      "price": 143,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational3.png",
+        "../Images/motivational3_2.jpg",
+        "../Images/motivational3_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational4",
+      "name": "Motivational Posters 4",
+      "price": 334,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational4.png",
+        "../Images/motivational4_2.jpg",
+        "../Images/motivational4_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational5",
+      "name": "Motivational Posters 5",
+      "price": 137,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational5.png",
+        "../Images/motivational5_2.jpg",
+        "../Images/motivational5_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational6",
+      "name": "Motivational Posters 6",
+      "price": 141,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational6.png",
+        "../Images/motivational6_2.jpg",
+        "../Images/motivational6_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational7",
+      "name": "Motivational Posters 7",
+      "price": 491,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational7.png",
+        "../Images/motivational7_2.jpg",
+        "../Images/motivational7_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational8",
+      "name": "Motivational Posters 8",
+      "price": 447,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational8.png",
+        "../Images/motivational8_2.jpg",
+        "../Images/motivational8_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational9",
+      "name": "Motivational Posters 9",
+      "price": 378,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational9.png",
+        "../Images/motivational9_2.jpg",
+        "../Images/motivational9_3.jpg"
+      ]
+    },
+    {
+      "id": "motivational10",
+      "name": "Motivational Posters 10",
+      "price": 406,
+      "category": "motivational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted motivational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/motivational10.png",
+        "../Images/motivational10_2.jpg",
+        "../Images/motivational10_3.jpg"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "id": "quotes1",
+      "name": "Inspirational Quotes 1",
+      "price": 315,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes1.jpg",
+        "../Images/quotes1_2.jpg",
+        "../Images/quotes1_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes2",
+      "name": "Inspirational Quotes 2",
+      "price": 339,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes2.jpg",
+        "../Images/quotes2_2.jpg",
+        "../Images/quotes2_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes3",
+      "name": "Inspirational Quotes 3",
+      "price": 126,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes3.jpg",
+        "../Images/quotes3_2.jpg",
+        "../Images/quotes3_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes4",
+      "name": "Inspirational Quotes 4",
+      "price": 154,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes4.jpg",
+        "../Images/quotes4_2.jpg",
+        "../Images/quotes4_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes5",
+      "name": "Inspirational Quotes 5",
+      "price": 194,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes5.jpg",
+        "../Images/quotes5_2.jpg",
+        "../Images/quotes5_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes6",
+      "name": "Inspirational Quotes 6",
+      "price": 232,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes6.jpg",
+        "../Images/quotes6_2.jpg",
+        "../Images/quotes6_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes7",
+      "name": "Inspirational Quotes 7",
+      "price": 249,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes7.jpg",
+        "../Images/quotes7_2.jpg",
+        "../Images/quotes7_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes8",
+      "name": "Inspirational Quotes 8",
+      "price": 418,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes8.jpg",
+        "../Images/quotes8_2.jpg",
+        "../Images/quotes8_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes9",
+      "name": "Inspirational Quotes 9",
+      "price": 206,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes9.jpg",
+        "../Images/quotes9_2.jpg",
+        "../Images/quotes9_3.jpg"
+      ]
+    },
+    {
+      "id": "quotes10",
+      "name": "Inspirational Quotes 10",
+      "price": 265,
+      "category": "quotes",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted inspirational quotes poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/quotes10.jpg",
+        "../Images/quotes10_2.jpg",
+        "../Images/quotes10_3.jpg"
+      ]
+    }
+  ],
+  "festival": [
+    {
+      "id": "festival1",
+      "name": "Festival Posters 1",
+      "price": 207,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival1.png",
+        "../Images/festival1_2.jpg",
+        "../Images/festival1_3.jpg"
+      ]
+    },
+    {
+      "id": "festival2",
+      "name": "Festival Posters 2",
+      "price": 211,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival2.png",
+        "../Images/festival2_2.jpg",
+        "../Images/festival2_3.jpg"
+      ]
+    },
+    {
+      "id": "festival3",
+      "name": "Festival Posters 3",
+      "price": 427,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival3.png",
+        "../Images/festival3_2.jpg",
+        "../Images/festival3_3.jpg"
+      ]
+    },
+    {
+      "id": "festival4",
+      "name": "Festival Posters 4",
+      "price": 206,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival4.png",
+        "../Images/festival4_2.jpg",
+        "../Images/festival4_3.jpg"
+      ]
+    },
+    {
+      "id": "festival5",
+      "name": "Festival Posters 5",
+      "price": 489,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival5.png",
+        "../Images/festival5_2.jpg",
+        "../Images/festival5_3.jpg"
+      ]
+    },
+    {
+      "id": "festival6",
+      "name": "Festival Posters 6",
+      "price": 490,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival6.png",
+        "../Images/festival6_2.jpg",
+        "../Images/festival6_3.jpg"
+      ]
+    },
+    {
+      "id": "festival7",
+      "name": "Festival Posters 7",
+      "price": 485,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival7.jpg",
+        "../Images/festival7_2.jpg",
+        "../Images/festival7_3.jpg"
+      ]
+    },
+    {
+      "id": "festival8",
+      "name": "Festival Posters 8",
+      "price": 361,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival8.jpg",
+        "../Images/festival8_2.jpg",
+        "../Images/festival8_3.jpg"
+      ]
+    },
+    {
+      "id": "festival9",
+      "name": "Festival Posters 9",
+      "price": 104,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival9.jpg",
+        "../Images/festival9_2.jpg",
+        "../Images/festival9_3.jpg"
+      ]
+    },
+    {
+      "id": "festival10",
+      "name": "Festival Posters 10",
+      "price": 107,
+      "category": "festival",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted festival posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/festival10.jpg",
+        "../Images/festival10_2.jpg",
+        "../Images/festival10_3.jpg"
+      ]
+    }
+  ],
+  "bhagwan": [
+    {
+      "id": "bhagwan1",
+      "name": "Bhagwan Posters 1",
+      "price": 108,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan1.jpg",
+        "../Images/bhagwan1_2.jpg",
+        "../Images/bhagwan1_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan2",
+      "name": "Bhagwan Posters 2",
+      "price": 121,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan2.jpg",
+        "../Images/bhagwan2_2.jpg",
+        "../Images/bhagwan2_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan3",
+      "name": "Bhagwan Posters 3",
+      "price": 493,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan3.jpg",
+        "../Images/bhagwan3_2.jpg",
+        "../Images/bhagwan3_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan4",
+      "name": "Bhagwan Posters 4",
+      "price": 307,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan4.jpg",
+        "../Images/bhagwan4_2.jpg",
+        "../Images/bhagwan4_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan5",
+      "name": "Bhagwan Posters 5",
+      "price": 108,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan5.jpg",
+        "../Images/bhagwan5_2.jpg",
+        "../Images/bhagwan5_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan6",
+      "name": "Bhagwan Posters 6",
+      "price": 251,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan6.jpg",
+        "../Images/bhagwan6_2.jpg",
+        "../Images/bhagwan6_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan7",
+      "name": "Bhagwan Posters 7",
+      "price": 359,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan7.jpg",
+        "../Images/bhagwan7_2.jpg",
+        "../Images/bhagwan7_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan8",
+      "name": "Bhagwan Posters 8",
+      "price": 120,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan8.jpg",
+        "../Images/bhagwan8_2.jpg",
+        "../Images/bhagwan8_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan9",
+      "name": "Bhagwan Posters 9",
+      "price": 435,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan9.jpg",
+        "../Images/bhagwan9_2.jpg",
+        "../Images/bhagwan9_3.jpg"
+      ]
+    },
+    {
+      "id": "bhagwan10",
+      "name": "Bhagwan Posters 10",
+      "price": 286,
+      "category": "bhagwan",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted bhagwan posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/bhagwan10.jpg",
+        "../Images/bhagwan10_2.jpg",
+        "../Images/bhagwan10_3.jpg"
+      ]
+    }
+  ],
+  "wall-art": [
+    {
+      "id": "wall-art1",
+      "name": "Wall Art Posters 1",
+      "price": 493,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art1.jpg",
+        "../Images/wall-art1_2.jpg",
+        "../Images/wall-art1_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art2",
+      "name": "Wall Art Posters 2",
+      "price": 297,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art2.jpg",
+        "../Images/wall-art2_2.jpg",
+        "../Images/wall-art2_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art3",
+      "name": "Wall Art Posters 3",
+      "price": 489,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art3.jpg",
+        "../Images/wall-art3_2.jpg",
+        "../Images/wall-art3_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art4",
+      "name": "Wall Art Posters 4",
+      "price": 114,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art4.jpg",
+        "../Images/wall-art4_2.jpg",
+        "../Images/wall-art4_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art5",
+      "name": "Wall Art Posters 5",
+      "price": 329,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art5.jpg",
+        "../Images/wall-art5_2.jpg",
+        "../Images/wall-art5_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art6",
+      "name": "Wall Art Posters 6",
+      "price": 404,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art6.jpg",
+        "../Images/wall-art6_2.jpg",
+        "../Images/wall-art6_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art7",
+      "name": "Wall Art Posters 7",
+      "price": 448,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art7.jpg",
+        "../Images/wall-art7_2.jpg",
+        "../Images/wall-art7_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art8",
+      "name": "Wall Art Posters 8",
+      "price": 137,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art8.jpg",
+        "../Images/wall-art8_2.jpg",
+        "../Images/wall-art8_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art9",
+      "name": "Wall Art Posters 9",
+      "price": 127,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art9.jpg",
+        "../Images/wall-art9_2.jpg",
+        "../Images/wall-art9_3.jpg"
+      ]
+    },
+    {
+      "id": "wall-art10",
+      "name": "Wall Art Posters 10",
+      "price": 486,
+      "category": "wall-art",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted wall art posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/wall-art10.jpg",
+        "../Images/wall-art10_2.jpg",
+        "../Images/wall-art10_3.jpg"
+      ]
+    }
+  ],
+  "educational": [
+    {
+      "id": "educational1",
+      "name": "Educational Posters 1",
+      "price": 276,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational1.jpg",
+        "../Images/educational1_2.jpg",
+        "../Images/educational1_3.jpg"
+      ]
+    },
+    {
+      "id": "educational2",
+      "name": "Educational Posters 2",
+      "price": 152,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational2.jpg",
+        "../Images/educational2_2.jpg",
+        "../Images/educational2_3.jpg"
+      ]
+    },
+    {
+      "id": "educational3",
+      "name": "Educational Posters 3",
+      "price": 446,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational3.jpg",
+        "../Images/educational3_2.jpg",
+        "../Images/educational3_3.jpg"
+      ]
+    },
+    {
+      "id": "educational4",
+      "name": "Educational Posters 4",
+      "price": 412,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational4.jpg",
+        "../Images/educational4_2.jpg",
+        "../Images/educational4_3.jpg"
+      ]
+    },
+    {
+      "id": "educational5",
+      "name": "Educational Posters 5",
+      "price": 453,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational5.jpg",
+        "../Images/educational5_2.jpg",
+        "../Images/educational5_3.jpg"
+      ]
+    },
+    {
+      "id": "educational6",
+      "name": "Educational Posters 6",
+      "price": 235,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational6.jpg",
+        "../Images/educational6_2.jpg",
+        "../Images/educational6_3.jpg"
+      ]
+    },
+    {
+      "id": "educational7",
+      "name": "Educational Posters 7",
+      "price": 427,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational7.jpg",
+        "../Images/educational7_2.jpg",
+        "../Images/educational7_3.jpg"
+      ]
+    },
+    {
+      "id": "educational8",
+      "name": "Educational Posters 8",
+      "price": 282,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational8.jpg",
+        "../Images/educational8_2.jpg",
+        "../Images/educational8_3.jpg"
+      ]
+    },
+    {
+      "id": "educational9",
+      "name": "Educational Posters 9",
+      "price": 475,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational9.jpg",
+        "../Images/educational9_2.jpg",
+        "../Images/educational9_3.jpg"
+      ]
+    },
+    {
+      "id": "educational10",
+      "name": "Educational Posters 10",
+      "price": 449,
+      "category": "educational",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted educational posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/educational10.jpg",
+        "../Images/educational10_2.jpg",
+        "../Images/educational10_3.jpg"
+      ]
+    }
+  ],
+  "ayurveda": [
+    {
+      "id": "ayurveda1",
+      "name": "Ayurveda Posters 1",
+      "price": 251,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda1.jpg",
+        "../Images/ayurveda1_2.jpg",
+        "../Images/ayurveda1_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda2",
+      "name": "Ayurveda Posters 2",
+      "price": 268,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda2.jpg",
+        "../Images/ayurveda2_2.jpg",
+        "../Images/ayurveda2_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda3",
+      "name": "Ayurveda Posters 3",
+      "price": 180,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda3.jpg",
+        "../Images/ayurveda3_2.jpg",
+        "../Images/ayurveda3_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda4",
+      "name": "Ayurveda Posters 4",
+      "price": 151,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda4.jpg",
+        "../Images/ayurveda4_2.jpg",
+        "../Images/ayurveda4_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda5",
+      "name": "Ayurveda Posters 5",
+      "price": 339,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda5.jpg",
+        "../Images/ayurveda5_2.jpg",
+        "../Images/ayurveda5_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda6",
+      "name": "Ayurveda Posters 6",
+      "price": 410,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda6.jpg",
+        "../Images/ayurveda6_2.jpg",
+        "../Images/ayurveda6_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda7",
+      "name": "Ayurveda Posters 7",
+      "price": 157,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda7.jpg",
+        "../Images/ayurveda7_2.jpg",
+        "../Images/ayurveda7_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda8",
+      "name": "Ayurveda Posters 8",
+      "price": 467,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda8.jpg",
+        "../Images/ayurveda8_2.jpg",
+        "../Images/ayurveda8_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda9",
+      "name": "Ayurveda Posters 9",
+      "price": 451,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda9.jpg",
+        "../Images/ayurveda9_2.jpg",
+        "../Images/ayurveda9_3.jpg"
+      ]
+    },
+    {
+      "id": "ayurveda10",
+      "name": "Ayurveda Posters 10",
+      "price": 233,
+      "category": "ayurveda",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted ayurveda posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/ayurveda10.jpg",
+        "../Images/ayurveda10_2.jpg",
+        "../Images/ayurveda10_3.jpg"
+      ]
+    }
+  ],
+  "traditional": [
+    {
+      "id": "traditional1",
+      "name": "Traditional Posters 1",
+      "price": 339,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional1.jpg",
+        "../Images/traditional1_2.jpg",
+        "../Images/traditional1_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional2",
+      "name": "Traditional Posters 2",
+      "price": 223,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional2.jpg",
+        "../Images/traditional2_2.jpg",
+        "../Images/traditional2_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional3",
+      "name": "Traditional Posters 3",
+      "price": 153,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional3.jpg",
+        "../Images/traditional3_2.jpg",
+        "../Images/traditional3_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional4",
+      "name": "Traditional Posters 4",
+      "price": 212,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional4.jpg",
+        "../Images/traditional4_2.jpg",
+        "../Images/traditional4_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional5",
+      "name": "Traditional Posters 5",
+      "price": 421,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional5.jpg",
+        "../Images/traditional5_2.jpg",
+        "../Images/traditional5_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional6",
+      "name": "Traditional Posters 6",
+      "price": 434,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional6.jpg",
+        "../Images/traditional6_2.jpg",
+        "../Images/traditional6_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional7",
+      "name": "Traditional Posters 7",
+      "price": 301,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional7.jpg",
+        "../Images/traditional7_2.jpg",
+        "../Images/traditional7_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional8",
+      "name": "Traditional Posters 8",
+      "price": 404,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional8.jpg",
+        "../Images/traditional8_2.jpg",
+        "../Images/traditional8_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional9",
+      "name": "Traditional Posters 9",
+      "price": 144,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional9.jpg",
+        "../Images/traditional9_2.jpg",
+        "../Images/traditional9_3.jpg"
+      ]
+    },
+    {
+      "id": "traditional10",
+      "name": "Traditional Posters 10",
+      "price": 264,
+      "category": "traditional",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted traditional posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/traditional10.jpg",
+        "../Images/traditional10_2.jpg",
+        "../Images/traditional10_3.jpg"
+      ]
+    }
+  ],
+  "kids": [
+    {
+      "id": "kids1",
+      "name": "Kids Posters 1",
+      "price": 404,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids1.jpg",
+        "../Images/kids1_2.jpg",
+        "../Images/kids1_3.jpg"
+      ]
+    },
+    {
+      "id": "kids2",
+      "name": "Kids Posters 2",
+      "price": 264,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids2.jpg",
+        "../Images/kids2_2.jpg",
+        "../Images/kids2_3.jpg"
+      ]
+    },
+    {
+      "id": "kids3",
+      "name": "Kids Posters 3",
+      "price": 122,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids3.jpg",
+        "../Images/kids3_2.jpg",
+        "../Images/kids3_3.jpg"
+      ]
+    },
+    {
+      "id": "kids4",
+      "name": "Kids Posters 4",
+      "price": 129,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids4.jpg",
+        "../Images/kids4_2.jpg",
+        "../Images/kids4_3.jpg"
+      ]
+    },
+    {
+      "id": "kids5",
+      "name": "Kids Posters 5",
+      "price": 345,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids5.jpg",
+        "../Images/kids5_2.jpg",
+        "../Images/kids5_3.jpg"
+      ]
+    },
+    {
+      "id": "kids6",
+      "name": "Kids Posters 6",
+      "price": 234,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids6.jpg",
+        "../Images/kids6_2.jpg",
+        "../Images/kids6_3.jpg"
+      ]
+    },
+    {
+      "id": "kids7",
+      "name": "Kids Posters 7",
+      "price": 425,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids7.jpg",
+        "../Images/kids7_2.jpg",
+        "../Images/kids7_3.jpg"
+      ]
+    },
+    {
+      "id": "kids8",
+      "name": "Kids Posters 8",
+      "price": 127,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids8.jpg",
+        "../Images/kids8_2.jpg",
+        "../Images/kids8_3.jpg"
+      ]
+    },
+    {
+      "id": "kids9",
+      "name": "Kids Posters 9",
+      "price": 382,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids9.jpg",
+        "../Images/kids9_2.jpg",
+        "../Images/kids9_3.jpg"
+      ]
+    },
+    {
+      "id": "kids10",
+      "name": "Kids Posters 10",
+      "price": 476,
+      "category": "kids",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted kids posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/kids10.jpg",
+        "../Images/kids10_2.jpg",
+        "../Images/kids10_3.jpg"
+      ]
+    }
+  ],
+  "nature": [
+    {
+      "id": "nature1",
+      "name": "Nature Posters 1",
+      "price": 497,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature1.jpg",
+        "../Images/nature1_2.jpg",
+        "../Images/nature1_3.jpg"
+      ]
+    },
+    {
+      "id": "nature2",
+      "name": "Nature Posters 2",
+      "price": 298,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature2.jpg",
+        "../Images/nature2_2.jpg",
+        "../Images/nature2_3.jpg"
+      ]
+    },
+    {
+      "id": "nature3",
+      "name": "Nature Posters 3",
+      "price": 140,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature3.jpg",
+        "../Images/nature3_2.jpg",
+        "../Images/nature3_3.jpg"
+      ]
+    },
+    {
+      "id": "nature4",
+      "name": "Nature Posters 4",
+      "price": 324,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature4.jpg",
+        "../Images/nature4_2.jpg",
+        "../Images/nature4_3.jpg"
+      ]
+    },
+    {
+      "id": "nature5",
+      "name": "Nature Posters 5",
+      "price": 491,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature5.jpg",
+        "../Images/nature5_2.jpg",
+        "../Images/nature5_3.jpg"
+      ]
+    },
+    {
+      "id": "nature6",
+      "name": "Nature Posters 6",
+      "price": 159,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature6.jpg",
+        "../Images/nature6_2.jpg",
+        "../Images/nature6_3.jpg"
+      ]
+    },
+    {
+      "id": "nature7",
+      "name": "Nature Posters 7",
+      "price": 488,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature7.jpg",
+        "../Images/nature7_2.jpg",
+        "../Images/nature7_3.jpg"
+      ]
+    },
+    {
+      "id": "nature8",
+      "name": "Nature Posters 8",
+      "price": 145,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature8.jpg",
+        "../Images/nature8_2.jpg",
+        "../Images/nature8_3.jpg"
+      ]
+    },
+    {
+      "id": "nature9",
+      "name": "Nature Posters 9",
+      "price": 469,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature9.jpg",
+        "../Images/nature9_2.jpg",
+        "../Images/nature9_3.jpg"
+      ]
+    },
+    {
+      "id": "nature10",
+      "name": "Nature Posters 10",
+      "price": 495,
+      "category": "nature",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted nature posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/nature10.jpg",
+        "../Images/nature10_2.jpg",
+        "../Images/nature10_3.jpg"
+      ]
+    }
+  ],
+  "mantras": [
+    {
+      "id": "mantras1",
+      "name": "Shlokas & Mantras 1",
+      "price": 109,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras1.jpg",
+        "../Images/mantras1_2.jpg",
+        "../Images/mantras1_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras2",
+      "name": "Shlokas & Mantras 2",
+      "price": 332,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras2.jpg",
+        "../Images/mantras2_2.jpg",
+        "../Images/mantras2_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras3",
+      "name": "Shlokas & Mantras 3",
+      "price": 317,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras3.jpg",
+        "../Images/mantras3_2.jpg",
+        "../Images/mantras3_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras4",
+      "name": "Shlokas & Mantras 4",
+      "price": 255,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras4.jpg",
+        "../Images/mantras4_2.jpg",
+        "../Images/mantras4_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras5",
+      "name": "Shlokas & Mantras 5",
+      "price": 180,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras5.jpg",
+        "../Images/mantras5_2.jpg",
+        "../Images/mantras5_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras6",
+      "name": "Shlokas & Mantras 6",
+      "price": 203,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras6.jpg",
+        "../Images/mantras6_2.jpg",
+        "../Images/mantras6_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras7",
+      "name": "Shlokas & Mantras 7",
+      "price": 314,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras7.jpg",
+        "../Images/mantras7_2.jpg",
+        "../Images/mantras7_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras8",
+      "name": "Shlokas & Mantras 8",
+      "price": 486,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras8.jpg",
+        "../Images/mantras8_2.jpg",
+        "../Images/mantras8_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras9",
+      "name": "Shlokas & Mantras 9",
+      "price": 154,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras9.jpg",
+        "../Images/mantras9_2.jpg",
+        "../Images/mantras9_3.jpg"
+      ]
+    },
+    {
+      "id": "mantras10",
+      "name": "Shlokas & Mantras 10",
+      "price": 269,
+      "category": "mantras",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted shlokas & mantras poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/mantras10.jpg",
+        "../Images/mantras10_2.jpg",
+        "../Images/mantras10_3.jpg"
+      ]
+    }
+  ],
+  "symbols": [
+    {
+      "id": "symbols1",
+      "name": "Devotional Symbols 1",
+      "price": 245,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols1.jpg",
+        "../Images/symbols1_2.jpg",
+        "../Images/symbols1_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols2",
+      "name": "Devotional Symbols 2",
+      "price": 495,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols2.jpg",
+        "../Images/symbols2_2.jpg",
+        "../Images/symbols2_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols3",
+      "name": "Devotional Symbols 3",
+      "price": 488,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols3.jpg",
+        "../Images/symbols3_2.jpg",
+        "../Images/symbols3_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols4",
+      "name": "Devotional Symbols 4",
+      "price": 107,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols4.jpg",
+        "../Images/symbols4_2.jpg",
+        "../Images/symbols4_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols5",
+      "name": "Devotional Symbols 5",
+      "price": 293,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols5.jpg",
+        "../Images/symbols5_2.jpg",
+        "../Images/symbols5_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols6",
+      "name": "Devotional Symbols 6",
+      "price": 391,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols6.jpg",
+        "../Images/symbols6_2.jpg",
+        "../Images/symbols6_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols7",
+      "name": "Devotional Symbols 7",
+      "price": 402,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols7.jpg",
+        "../Images/symbols7_2.jpg",
+        "../Images/symbols7_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols8",
+      "name": "Devotional Symbols 8",
+      "price": 381,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols8.jpg",
+        "../Images/symbols8_2.jpg",
+        "../Images/symbols8_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols9",
+      "name": "Devotional Symbols 9",
+      "price": 321,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols9.jpg",
+        "../Images/symbols9_2.jpg",
+        "../Images/symbols9_3.jpg"
+      ]
+    },
+    {
+      "id": "symbols10",
+      "name": "Devotional Symbols 10",
+      "price": 297,
+      "category": "symbols",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted devotional symbols poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/symbols10.jpg",
+        "../Images/symbols10_2.jpg",
+        "../Images/symbols10_3.jpg"
+      ]
+    }
+  ],
+  "vastu": [
+    {
+      "id": "vastu1",
+      "name": "Vastu Posters 1",
+      "price": 281,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu1.jpg",
+        "../Images/vastu1_2.jpg",
+        "../Images/vastu1_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu2",
+      "name": "Vastu Posters 2",
+      "price": 260,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu2.jpg",
+        "../Images/vastu2_2.jpg",
+        "../Images/vastu2_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu3",
+      "name": "Vastu Posters 3",
+      "price": 376,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu3.jpg",
+        "../Images/vastu3_2.jpg",
+        "../Images/vastu3_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu4",
+      "name": "Vastu Posters 4",
+      "price": 444,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu4.jpg",
+        "../Images/vastu4_2.jpg",
+        "../Images/vastu4_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu5",
+      "name": "Vastu Posters 5",
+      "price": 225,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu5.jpg",
+        "../Images/vastu5_2.jpg",
+        "../Images/vastu5_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu6",
+      "name": "Vastu Posters 6",
+      "price": 285,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu6.jpg",
+        "../Images/vastu6_2.jpg",
+        "../Images/vastu6_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu7",
+      "name": "Vastu Posters 7",
+      "price": 325,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu7.jpg",
+        "../Images/vastu7_2.jpg",
+        "../Images/vastu7_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu8",
+      "name": "Vastu Posters 8",
+      "price": 274,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu8.jpg",
+        "../Images/vastu8_2.jpg",
+        "../Images/vastu8_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu9",
+      "name": "Vastu Posters 9",
+      "price": 165,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu9.jpg",
+        "../Images/vastu9_2.jpg",
+        "../Images/vastu9_3.jpg"
+      ]
+    },
+    {
+      "id": "vastu10",
+      "name": "Vastu Posters 10",
+      "price": 228,
+      "category": "vastu",
+      
+      "dimension": "12 x 18 inches",
+      "description": "This is a beautifully crafted vastu posters poster, perfect for home or office decoration.",
+      "aspects": [
+        "High quality print",
+        "Made with devotion",
+        "Eco-friendly packaging"
+      ],
+      "images": [
+        "../Images/vastu10.jpg",
+        "../Images/vastu10_2.jpg",
+        "../Images/vastu10_3.jpg"
+      ]
+    }
+  ]
+}

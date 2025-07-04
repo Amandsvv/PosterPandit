@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandit Ji Poster Wale</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://kit.fontawesome.com/a96a0fdf1a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/checkOut.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo-div">
+            <img src="../Images/logo.png" alt="Logo" width="70">
+        </div>
+        <ul>
+            <li><a href="../index.html"><img src="../Images/home.png" alt="Home icon"></a></li>
+            <li><a href="../html/cart.html"><img src="../Images/cart.png" alt="Cart icon"></a></li>
+            <li><a href="#"><img src="../Images/bell.png" alt="Bell icon"></a></li>
+            <li class="User-icon"><a href="#"><img src="../Images/user.png" alt="User icon"></a>
+                <div class="user-icon-box">
+                    <a href="#"><img src="../Images/user.png" alt="User icon">Profile</a>
+                    <a href="#"><img src="../Images/box.png" alt="">My orders</a>
+                    <a href="../html/wishlist.html"><img src="../Images/heart.png" alt="">Wishlist</a>
+                    <a href=""><img src="../Images/logout.png" alt="">logout</a>
+                </div>
+            </li>
+        </ul>
+    </header>
+
+    <section class="menu-div">
+        <div class="menu">
+            <ul>
+                <li><a href="../html/about.html">About Us</a></li>
+                <li class="product-btn">Products <img class="arr" src="../Images/left.png" alt="arrow" width="15px">
+                    <div class="products-box box" id="categoryLinksBox"></div>
+
+                </li>
+                <li><a href="../html/contact.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div>
+
+        </div>
+        <div class="search">
+            <input type="text" placeholder="Search for products...">
+            <i class="fas fa-search"></i>
+        </div>
+        <img class="menu-icon" src="../Images/menu.png" alt="Menu-icon" width="25px">
+
+    </section>
+    <div class="checkout-container">
+        <!-- Billing Details -->
+        <div class="billing-section">
+            <h2>Billing Details</h2>
+            <form id="billingForm">
+                <input type="text" name="name" placeholder="Name*" required />
+                <input type="text" name="company" placeholder="Company Name" />
+                <input type="text" name="address" placeholder="Street Address*" required />
+                <input type="text" name="apartment" placeholder="Apartment (Flat no. etc)" />
+                <input type="text" name="city" placeholder="Town / City*" required />
+                <input type="text" name="pin" placeholder="Pin Code*" required />
+                <input type="text" name="phone" placeholder="Phone No*" required />
+                <input type="email" name="email" placeholder="Email*" required />
+                <label><input type="checkbox" id="checkbox1" /><span>Save this information for faster check-out next time.</span> </label>
+            </form>
+        </div>
+
+        <!-- Order Summary -->
+        <div class="order-summary">
+            <h2>Product</h2>
+            <div class="order-items"></div>
+
+            <div class="price-summary">
+                <p><span>Sub Total (<span id="itemCount"></span> items):</span><span id="subTotal">Rs./ 0</span></p>
+                <p>Delivery Charge: <span>Rs./ 40</span></p>
+                <p><strong>Total:</strong> <span id="totalAmount">Rs./ 0</span></p>
+            </div>
+
+            <div class="payment-options">
+                <label><input type="radio" name="payment" value="Bank" /> Bank</label>
+                <label><input type="radio" name="payment" value="COD" /> Cash on Delivery</label>
+            </div>
+
+            <button class="place-order">Place Order</button>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="top-footer">
+            <div class="footer-column">
+                <h4>AWGP Store</h4>
+                <div class="contact">
+                    <p><a href="../html/contact.html">Contact Us</a></p>
+                    <p>+91 999 #####</p>
+                    <p>shop@posterpandit.com</p>
+                </div>
+            </div>
+            <div class="footer-column" id="popular-cat">
+                <h4>Most Popular Categories</h4>
+            </div>
+            <div class="footer-column">
+                <h4>Customer Services</h4>
+                <ul>
+                    <li>About Us</li>
+                    <li>FAQ</li>
+                    <li>Privacy Policy</li>
+                    <li>Return Policy</li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">
+            &copy; Poster Pandit. All rights reserved. <a href="#">Pandit Ji Poster Wale</a>.
+        </div>
+    </footer>
+
+    <script src="../JS/main.js"></script>
+    <script src="../JS/wishlistCart.js"></script>
+    <script src="../JS/checkOut.js"></script>
+
+</body>
+
+</html>

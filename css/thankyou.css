@@ -1,0 +1,43 @@
+.thankyou-container {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    max-width: 600px;
+    text-align: center;
+
+    margin: 50px auto;
+}
+
+.thankyou-container h1 {
+    color: #7b44ff;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.thankyou-container p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.thankyou-container img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.thankyou-container a {
+    display: inline-block;
+    margin-top: 20px;
+    background: #7b44ff;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: background 0.3s ease;
+}
+
+.thankyou-container a:hover {
+    background: #5e30cc;
+}

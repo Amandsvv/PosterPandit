@@ -1,0 +1,97 @@
+.checkout-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.billing-section,
+.order-summary {
+    background-color: transparent;
+    padding: 25px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 550px;
+}
+
+.billing-section input {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 6px;
+    background-color: #F3F4F6;
+    box-shadow: 0 4px 4px rgb(213, 213, 213);
+    border: none;
+    font-size: 14px;
+}
+
+#checkbox1{
+    width: 20px;
+    height: 20px;
+    box-shadow: 0px 0px 0px;
+    background-color: #7b44ff;
+
+    border: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+.billing-section h2{
+    font-size: 20px;
+    margin: 20px 0;
+}
+.billing-section input:focus{
+    outline: none;
+}
+
+
+.order-summary h2 {
+    margin: 20px 0px;
+    font-size: 20px;
+
+}
+.checkout-item{
+    padding: .5rem;
+}
+.checkout-item img {
+    width: 60px;
+    height: auto;
+    border-radius: 6px;
+}
+
+.remove {
+    background-color: transparent;
+    border: none;
+}
+.remove img{
+    width: 20px;
+    height: 20px;
+}
+.checkout-item button {
+    padding: 4px 8px;
+    margin: 0 4px;
+}
+
+.price-summary p {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.payment-options label {
+    margin-top: 10px;
+}
+
+.place-order {
+    margin-top: 30px;
+    width: 100%;
+    background: #7b44ff;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}

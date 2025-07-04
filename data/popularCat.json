@@ -1,0 +1,7 @@
+[
+  { "name": "Spiritual Posters", "slug": "spiritual", "image": "Images/poster_spiritual.jpg" },
+  { "name": "Motivational Posters", "slug": "motivational", "image": "Images/poster_motivational.jpg" },
+  { "name": "Inspirational Quotes", "slug": "quotes", "image": "Images/poster_quotes.jpg" },
+  { "name": "Festival Posters", "slug": "festival", "image": "Images/poster_festival.jpg" },
+  { "name": "Bhagwan Posters", "slug": "bhagwan", "image": "Images/poster_bhagwan.jpg" }
+]

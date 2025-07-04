@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandit Ji Poster Wale</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://kit.fontawesome.com/a96a0fdf1a.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        #hero {
+            background: linear-gradient(rgba(123, 68, 255, 0.8), rgba(123, 68, 255, 0.8)), url('../Images/hero-img.png') no-repeat center center/cover;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        .hero p {
+            font-size: 1.2em;
+            max-width: 700px;
+            margin: auto;
+        }
+
+        .about-section {
+            padding: 60px 20px;
+            max-width: 1100px;
+            margin: auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            margin-top: -40px;
+            position: relative;
+            z-index: 10;
+        }
+
+        .about-section h2 {
+            text-align: center;
+            font-size: 2.2em;
+            margin-bottom: 30px;
+            color: #7b44ff;
+        }
+
+        .about-section p {
+            font-size: 1.1em;
+            line-height: 1.8;
+            margin-bottom: 20px;
+            text-align: justify;
+            font-weight: 300;
+        }
+
+        .about-values {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .value-card {
+            background: #fafafa;
+            padding: 25px;
+            border-radius: 10px;
+            transition: 0.3s ease;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+            border-left: 5px solid #7b44ff;
+        }
+
+        .value-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(123, 68, 255, 0.1);
+        }
+
+        .value-card h3 {
+            margin-bottom: 10px;
+            color: #222;
+        }
+
+        .value-card p {
+            color: #555;
+            font-size: 1em;
+            font-weight: 300;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.2em;
+            }
+
+            .about-section h2 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo-div">
+            <img src="../Images/logo.png" alt="Logo" width="70">
+        </div>
+        <ul>
+            <li><a href="../index.html"><img src="../Images/home.png" alt="Home icon"></a></li>
+            <li><a href="../html/cart.html"><img src="../Images/cart.png" alt="Cart icon"></a></li>
+            <li><a href="#"><img src="../Images/bell.png" alt="Bell icon"></a></li>
+            <li class="User-icon"><a href="#"><img src="../Images/user.png" alt="User icon"></a>
+                <div class="user-icon-box">
+                    <a href="#"><img src="../Images/user.png" alt="User icon">Profile</a>
+                    <a href="#"><img src="../Images/box.png" alt="">My orders</a>
+                    <a href="../html/wishlist.html"><img src="../Images/heart.png" alt="">Wishlist</a>
+                    <a href=""><img src="../Images/logout.png" alt="">logout</a>
+                </div>
+            </li>
+        </ul>
+    </header>
+
+    <section class="menu-div">
+        <div class="menu">
+            <ul>
+                <li><a href="../html/about.html">About Us</a></li>
+                <li class="product-btn">Products <img class="arr" src="../Images/left.png" alt="arrow" width="15px">
+                    <div class="products-box box" id="categoryLinksBox"></div>
+
+                </li>
+                <li><a href="../html/contact.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div>
+
+        </div>
+        <div class="search">
+            <input type="text" placeholder="Search for products...">
+            <i class="fas fa-search"></i>
+        </div>
+        <img class="menu-icon" src="../Images/menu.png" alt="Menu-icon" width="25px">
+
+    </section>
+    <section id="hero">
+        <h1>About Pandit Ji Poster Wale</h1>
+        <p>Bringing spiritual expression to your walls with posters that echo the soul of Indian tradition and devotion.
+        </p>
+    </section>
+
+    <section class="about-section">
+        <h2>Our Story</h2>
+        <p>
+            Pandit Ji Poster Wale was born out of a deep reverence for Indian culture, spirituality, and the power of
+            visual inspiration. We believe that a single poster can transform a space — instilling peace, purpose, and
+            divine presence into homes, workplaces, and sacred spaces.
+        </p>
+        <p>
+            From <strong>Bhagwan posters</strong> to <strong>Vedic mantras</strong>, <strong>motivational
+                quotes</strong> to <strong>festival-themed artwork</strong>, each piece in our collection is designed to
+            uplift and connect you with the spiritual energy of Bharat.
+        </p>
+
+        <div class="about-values">
+            <div class="value-card">
+                <h3>Our Vision</h3>
+                <p>To be the leading source of spiritually inspired posters that spread positivity, devotion, and
+                    cultural pride across generations.</p>
+            </div>
+
+            <div class="value-card">
+                <h3>Our Mission</h3>
+                <p>To offer a diverse range of high-quality posters that honor Indian traditions and spiritual values,
+                    handcrafted with care and intention.</p>
+            </div>
+
+            <div class="value-card">
+                <h3>What We Offer</h3>
+                <p>Devotional posters, festival artworks, kids learning charts, motivational quotes, vastu
+                    illustrations, and much more — available in various sizes and themes to suit your sacred space.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="top-footer">
+            <div class="footer-column">
+                <h4>AWGP Store</h4>
+                <div class="contact">
+                    <p><a href="../html/contact.html">Contact Us</a></p>
+                    <p>+91 999 #####</p>
+                    <p>shop@posterpandit.com</p>
+                </div>
+            </div>
+            <div class="footer-column" id="popular-cat">
+                <h4>Most Popular Categories</h4>
+            </div>
+            <div class="footer-column">
+                <h4>Customer Services</h4>
+                <ul>
+                    <li>About Us</li>
+                    <li>FAQ</li>
+                    <li>Privacy Policy</li>
+                    <li>Return Policy</li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">
+            &copy; Poster Pandit. All rights reserved. <a href="#">Pandit Ji Poster Wale</a>.
+        </div>
+    </footer>
+
+    <script src="../JS/main.js"></script>
+</body>
+
+</html>

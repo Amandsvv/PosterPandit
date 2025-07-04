@@ -1,0 +1,74 @@
+[
+  {
+    "id": "spiritual1",
+    "name": "Spiritual Posters 1",
+    "price": 151,
+    "category": "spiritual",
+    "dimension": "12 x 18 inches",
+    "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+    "aspects": [
+      "High quality print",
+      "Made with devotion",
+      "Eco-friendly packaging"
+    ],
+    "images": [
+      "../Images/spiritual1.png",
+      "../Images/spiritual1_2.jpg",
+      "../Images/spiritual1_3.jpg"
+    ]
+  },
+  {
+    "id": "spiritual2",
+    "name": "Spiritual Posters 2",
+    "price": 157,
+    "category": "spiritual",
+    "dimension": "12 x 18 inches",
+    "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+    "aspects": [
+      "High quality print",
+      "Made with devotion",
+      "Eco-friendly packaging"
+    ],
+    "images": [
+      "../Images/spiritual2.png",
+      "../Images/spiritual2_2.jpg",
+      "../Images/spiritual2_3.jpg"
+    ]
+  },
+  {
+    "id": "spiritual3",
+    "name": "Spiritual Posters 3",
+    "price": 344,
+    "category": "spiritual",
+    "dimension": "12 x 18 inches",
+    "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+    "aspects": [
+      "High quality print",
+      "Made with devotion",
+      "Eco-friendly packaging"
+    ],
+    "images": [
+      "../Images/spiritual3.png",
+      "../Images/spiritual3_2.jpg",
+      "../Images/spiritual3_3.jpg"
+    ]
+  },
+  {
+    "id": "spiritual4",
+    "name": "Spiritual Posters 4",
+    "price": 164,
+    "category": "spiritual",
+    "dimension": "12 x 18 inches",
+    "description": "This is a beautifully crafted spiritual posters poster, perfect for home or office decoration.",
+    "aspects": [
+      "High quality print",
+      "Made with devotion",
+      "Eco-friendly packaging"
+    ],
+    "images": [
+      "../Images/spiritual4.png",
+      "../Images/spiritual4_2.jpg",
+      "../Images/spiritual4_3.jpg"
+    ]
+  }
+]

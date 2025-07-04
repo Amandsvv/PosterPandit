@@ -1,0 +1,146 @@
+.products-details,
+.product-title {
+    margin: 50px 10vw;
+}
+
+.product-title p {
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.p1 {
+    color: #7b44ff;
+}
+
+
+.breadcrumb {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.breadcrumb a {
+    color: purple;
+    text-decoration: none;
+}
+
+.product-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 50px;
+}
+
+.image-gallery {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.main-image img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.thumbnail-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.thumbnail {
+    width: 60px;
+    cursor: pointer;
+}
+
+.product-info p {
+    margin-top: 10px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons .wishlist-btn,
+.buttons .cart-btn {
+    padding: 10px 15px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.buttons .wishlist-btn {
+    background: #D9D9D9;
+}
+
+.buttons .cart-btn {
+    background: #D9D9D9;
+    color: black;
+}
+
+.tabs {
+    margin-top: 40px;
+}
+
+.tab {
+    padding: 10px 20px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    margin-right: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tab.active,
+.product-title h2 {
+    text-decoration: 1.5px underline #7b44ff;
+    text-underline-offset: 10px;
+    font-weight: 600;
+}
+
+.tab-content {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.tab-content h3 {
+    font-size: 16px;
+}
+
+.tab-content p,
+.tab-content ul {
+    margin-top: 10px;
+    font-weight: 300;
+    padding: 20px;
+}
+
+
+.tab-content.active {
+    display: block;
+}
+
+@media (max-width: 600px) {
+    .product-details {
+        flex-direction: column;
+    }
+
+    .main-image{
+        margin: 0px auto;
+    }
+
+    .image-gallery {
+        flex-direction: column;
+    }
+
+    .thumbnail-list{
+        flex-direction:row ;
+    }
+}
