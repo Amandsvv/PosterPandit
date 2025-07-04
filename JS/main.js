@@ -90,11 +90,11 @@ document.addEventListener("DOMContentLoaded", () => {
         productDiv.innerHTML = `
           <a href="../html/goods.html?&id=${product.id}" style="text-decoration: none; color: inherit;">
               <img src="${product.images[0]}" alt="${product.name}">
-              <div>
+          </a>
+          <div>
               <p>${product.name}</p>
               <p>Rs./ ${product.price}</p>
               </div>
-          </a>
           <div class="add-btn">
               <img src="../Images/heart.png" alt="add to wishlist" class="wishlist-btn" data-id="${product.id}">
               <img src="../Images/cart.png" alt="Add to cart" class="cart-btn" data-id="${product.id}">
