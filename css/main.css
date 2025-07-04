@@ -610,7 +610,7 @@ header ul li a img {
     }
 
     .hero img {
-        height: 80%;
+        height: 60%;
         width: auto;
     }
 
@@ -664,15 +664,15 @@ header ul li a img {
     }
 
     .hero h2 {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .hero p {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .hero img {
-        height: 70%;
+        height: 50%;
         width: auto;
     }
 }
